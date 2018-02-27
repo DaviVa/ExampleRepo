@@ -10,7 +10,7 @@
 namespace IDT.Boss.API.GeoLocation.Models
 {
     /// <summary>
-    /// The Geo location info.
+    /// Class to handle Geo location info.
     /// </summary>
     public sealed class GeoLocationInfo
     {
