@@ -20,7 +20,7 @@ namespace IDT.Boss.API.GeoLocation.Models
         public string City { get; set; }
 
         /// <summary>
-        /// The country.
+        /// Gets and sets country.
         /// </summary>
         public string Country { get; set; }
 
